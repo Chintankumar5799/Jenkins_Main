@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("This is java program for jenkins");
 		System.out.println("Output for java program");
 		System.out.println(new Date());
+		System.out.println("after commit");
 	}
 }
