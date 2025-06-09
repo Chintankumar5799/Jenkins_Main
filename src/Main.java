@@ -6,5 +6,8 @@ public class Main {
 		System.out.println("Output for java program");
 		System.out.println(new Date());
 		System.out.println("after commit");
+		
+		Student s=new Student();
+		s.sayHello();
 	}
 }
